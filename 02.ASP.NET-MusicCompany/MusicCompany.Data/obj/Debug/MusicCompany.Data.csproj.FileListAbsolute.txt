@@ -1,0 +1,12 @@
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\MusicCompany.Data.dll.config
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\MusicCompany.Data.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\MusicCompany.Data.pdb
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\EntityFramework.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\MusicCompany.Models.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\MusicCompany.Models.pdb
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\EntityFramework.xml
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\obj\Debug\MusicCompany.Data.csprojResolveAssemblyReference.cache
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\obj\Debug\MusicCompany.Data.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-MusicCompany\MusicCompany.Data\obj\Debug\MusicCompany.Data.pdb
