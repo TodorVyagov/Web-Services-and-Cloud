@@ -1,0 +1,12 @@
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+D:\Telerik\13.WebServicesAndCloud\02.ASP.NET-StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
