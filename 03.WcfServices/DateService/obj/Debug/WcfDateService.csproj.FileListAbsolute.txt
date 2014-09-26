@@ -1,0 +1,6 @@
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\DateService\obj\Debug\WcfDateService.csprojResolveAssemblyReference.cache
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\DateService\bin\WcfDateService.dll.config
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\DateService\bin\WcfDateService.dll
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\DateService\bin\WcfDateService.pdb
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\DateService\obj\Debug\WcfDateService.dll
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\DateService\obj\Debug\WcfDateService.pdb

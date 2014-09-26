@@ -1,0 +1,2 @@
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\StringCoiunterConsoleClient\bin\Debug\StringCoiunterConsoleClient.exe.config
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\StringCoiunterConsoleClient\obj\Debug\StringCoiunterConsoleClient.csprojResolveAssemblyReference.cache

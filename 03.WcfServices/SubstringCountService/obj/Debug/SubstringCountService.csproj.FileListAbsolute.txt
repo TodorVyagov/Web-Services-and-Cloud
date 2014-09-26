@@ -1,0 +1,5 @@
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCountService\bin\Debug\SubstringCountService.dll.config
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCountService\bin\Debug\SubstringCountService.dll
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCountService\bin\Debug\SubstringCountService.pdb
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCountService\obj\Debug\SubstringCountService.dll
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCountService\obj\Debug\SubstringCountService.pdb

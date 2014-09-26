@@ -1,0 +1,7 @@
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\obj\Debug\HostService.csprojResolveAssemblyReference.cache
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\bin\Debug\SubstringCounterService.exe
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\bin\Debug\SubstringCounterService.pdb
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\bin\Debug\SubstringCountService.dll
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\bin\Debug\SubstringCountService.pdb
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\obj\Debug\SubstringCounterService.exe
+D:\Telerik\13.WebServicesAndCloud\03.WcfServices\SubstringCounterService\obj\Debug\SubstringCounterService.pdb
